@@ -1,0 +1,9 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot.git
+[submodule "shell/.zsh/plugins/zsh-syntax-highlighting"]
+	path = shell/.zsh/plugins/zsh-syntax-highlighting
+	url = https://github.com/ldu94/zsh-syntax-highlighting.git
+[submodule "shell/.zsh/plugins/zsh-autosuggestions"]
+	path = shell/.zsh/plugins/zsh-autosuggestions
+	url = https://github.com/ldu94/zsh-autosuggestions.git
