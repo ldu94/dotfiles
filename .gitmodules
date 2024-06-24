@@ -7,3 +7,6 @@
 [submodule "shell/.zsh/plugins/zsh-autosuggestions"]
 	path = shell/.zsh/plugins/zsh-autosuggestions
 	url = https://github.com/ldu94/zsh-autosuggestions.git
+[submodule "applications/.fzf"]
+	path = applications/.fzf
+	url = https://github.com/junegunn/fzf.git
